@@ -14,7 +14,20 @@ function App() {
       </div>
       {!isConnected &&(
         <div>
-            <Boolean />
+            <header>
+                <h1>Aplikasi sederhana</h1>
+            </header>
+            <div className="container">
+                <h2>Status:
+                    <div className="setter">
+                        *****
+                    </div>
+                </h2>
+                <div className="staking-form">
+                    <br />
+                    <br />
+                </div>
+            </div>
         </div>
       )}
       
