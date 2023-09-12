@@ -1,0 +1,55 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  }
+  header {
+  background-color: #1b32a7;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  }
+  h1 {
+  margin: 0;
+  }
+  .container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .staking-form {
+  text-align: center;
+  }
+  .staking-form label {
+  font-weight: bold;
+  }
+  .staking-form button {
+  background-color: #1b32a7;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  }
+  .center-position {
+    display: flex;
+    justify-content: center; /* Pusat horizontal */
+    align-items: center; /* Pusat vertikal */
+    padding-bottom: 20px; /* Sesuaikan dengan tinggi layar */
+  }
+  .setter{
+    font-size: 30px;
+    font-weight: 600;
+    color: crimson;
+  }
