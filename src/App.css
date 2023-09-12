@@ -48,6 +48,9 @@ body {
     align-items: center; /* Pusat vertikal */
     padding-bottom: 20px; /* Sesuaikan dengan tinggi layar */
   }
+  .status-black{
+    color: #1b32a7;
+  }
   .setter{
     font-size: 30px;
     font-weight: 600;

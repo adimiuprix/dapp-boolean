@@ -18,7 +18,10 @@ function App() {
                 <h1>Aplikasi sederhana</h1>
             </header>
             <div className="container">
-                <h2>Status:
+                <h2>
+                    <div className="status-black">
+                      Status:
+                    </div>
                     <div className="setter">
                         *****
                     </div>
