@@ -26,6 +26,7 @@ function App() {
                 <div className="staking-form">
                     <br />
                     <br />
+                    <button>Masuk dulu</button>
                 </div>
             </div>
         </div>
